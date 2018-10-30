@@ -5011,9 +5011,9 @@ Login,Войти,module,Magento_Checkout
 Close,Закрыть,module,Magento_Checkout
 item,позиция,module,Magento_Checkout
 items,позиции,module,Magento_Checkout
-Go to Checkout,Оформить,module,Magento_Checkout
+Go to Checkout,Оформить заказ,module,Magento_Checkout
 Recently added item(s),Последние товары в заказе,module,Magento_Checkout
-View and edit cart,В корзину,module,Magento_Checkout
+View and edit cart,Перейти в корзину,module,Magento_Checkout
 See Details,Подробнее,module,Magento_Checkout
 Options Details,Параметры,module,Magento_Checkout
 Remove,Удалить,module,Magento_Checkout
